@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slider-project/static/css/main.f3027081.css",
+    "main.js": "/slider-project/static/js/main.81d8da35.js",
+    "index.html": "/slider-project/index.html",
+    "main.f3027081.css.map": "/slider-project/static/css/main.f3027081.css.map",
+    "main.81d8da35.js.map": "/slider-project/static/js/main.81d8da35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3027081.css",
+    "static/js/main.81d8da35.js"
+  ]
+}
